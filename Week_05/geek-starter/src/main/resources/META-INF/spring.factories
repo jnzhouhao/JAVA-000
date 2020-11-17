@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.candy.geekstarter.starter.StudentAutoConfiguration
